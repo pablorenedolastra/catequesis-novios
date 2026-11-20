@@ -1,0 +1,6 @@
+# Juntos en Camino es un libro publicado: se queda solo en local, no se sube al repo público
+fuentes/juntos-en-camino/juntos-en-camino.pdf
+fuentes/juntos-en-camino/juntos-en-camino.md
+
+.DS_Store
+.claude/settings.local.json

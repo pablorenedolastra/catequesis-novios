@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Catequesis De la mano para Novios//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Catequesis De la mano
+X-WR-CALDESC:Catequesis de novios. Parroquia Reina del Cielo. Curso 2026/20
+ 27.
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:catequesis-2026-12-17@catequesis-novios
+DTSTAMP:20261123T183500Z
+DTSTART;TZID=Europe/Madrid:20261217T201500
+DTEND;TZID=Europe/Madrid:20261217T221500
+SUMMARY:Catequesis de novios: Hombre y mujer los creó
+LOCATION:Casa María y Jorge\, C/ Sirio 62\, Esc 3\, 4ºB\, Madrid
+DESCRIPTION:Tema 3: Hombre y mujer los creó\nIguales en dignidad\, diferen
+ tes y complementarios\n\nPrepara: Javier y Susana\nLibro: Tema 3\, sesione
+ s 1 y 2 · pp. 53–64\n\nhttps://pablorenedolastra.github.io/catequesis-n
+ ovios/
+URL:https://pablorenedolastra.github.io/catequesis-novios/
+END:VEVENT
+BEGIN:VEVENT
+UID:catequesis-2027-01-14@catequesis-novios
+DTSTAMP:20261123T183500Z
+DTSTART;TZID=Europe/Madrid:20270114T201500
+DTEND;TZID=Europe/Madrid:20270114T221500
+SUMMARY:Catequesis de novios: ¿Qué es el amor?
+LOCATION:Casa Susana y Javier\, C/ Samaria 10\, 3º Izq\, Madrid
+DESCRIPTION:Tema 5: ¿Qué es el amor?\nBuceando en el amor y conociéndono
+ s desde el amor\n\nPrepara: José y Elene\nLibro: Tema 5\, sesiones 1 a 3 
+ · pp. 99–118\n\nhttps://pablorenedolastra.github.io/catequesis-novios/
+URL:https://pablorenedolastra.github.io/catequesis-novios/
+END:VEVENT
+BEGIN:VEVENT
+UID:catequesis-2027-02-04@catequesis-novios
+DTSTAMP:20261123T183500Z
+DTSTART;TZID=Europe/Madrid:20270204T201500
+DTEND;TZID=Europe/Madrid:20270204T221500
+SUMMARY:Catequesis de novios: Fidelidad
+LOCATION:Casa María y Jorge\, C/ Sirio 62\, Esc 3\, 4ºB\, Madrid
+DESCRIPTION:Tema 6: Fidelidad\nQué es\, cómo se vive y cómo se cuida\n\n
+ Prepara: Rocío y Pablo\nLibro: Tema 6\, sesiones 1 a 3 · pp. 121–142\n
+ \nhttps://pablorenedolastra.github.io/catequesis-novios/
+URL:https://pablorenedolastra.github.io/catequesis-novios/
+END:VEVENT
+BEGIN:VEVENT
+UID:catequesis-2027-03-04@catequesis-novios
+DTSTAMP:20261123T183500Z
+DTSTART;TZID=Europe/Madrid:20270304T201500
+DTEND;TZID=Europe/Madrid:20270304T221500
+SUMMARY:Catequesis de novios: La belleza de la sexualidad (I)
+LOCATION:Casa Susana y Javier\, C/ Samaria 10\, 3º Izq\, Madrid
+DESCRIPTION:Tema 7: La belleza de la sexualidad (I)\nAmamos con todo el ser
+  y los riesgos de una sexualidad banal\n\nPrepara: Jorge y María\nLibro: 
+ Tema 7\, sesiones 1 y 2 · pp. 145–154\n\nhttps://pablorenedolastra.gith
+ ub.io/catequesis-novios/
+URL:https://pablorenedolastra.github.io/catequesis-novios/
+END:VEVENT
+BEGIN:VEVENT
+UID:catequesis-2027-04-08@catequesis-novios
+DTSTAMP:20261123T183500Z
+DTSTART;TZID=Europe/Madrid:20270408T201500
+DTEND;TZID=Europe/Madrid:20270408T221500
+SUMMARY:Catequesis de novios: La belleza de la sexualidad (II)
+LOCATION:Casa María y Jorge\, C/ Sirio 62\, Esc 3\, 4ºB\, Madrid
+DESCRIPTION:Tema 7: La belleza de la sexualidad (II)\nAbiertos a la vida\n\
+ nPrepara: Javier y Susana\nLibro: Tema 7\, sesión 3 · pp. 155–164\n\nh
+ ttps://pablorenedolastra.github.io/catequesis-novios/
+URL:https://pablorenedolastra.github.io/catequesis-novios/
+END:VEVENT
+BEGIN:VEVENT
+UID:catequesis-2027-04-29@catequesis-novios
+DTSTAMP:20261123T183500Z
+DTSTART;TZID=Europe/Madrid:20270429T201500
+DTEND;TZID=Europe/Madrid:20270429T221500
+SUMMARY:Catequesis de novios: La espiritualidad en el noviazgo
+LOCATION:Casa Susana y Javier\, C/ Samaria 10\, 3º Izq\, Madrid
+DESCRIPTION:Tema 9: La espiritualidad en el noviazgo\nLa vida espiritual\, 
+ la fuente del amor y una fe en salida\n\nPrepara: José y Elene\nLibro: Te
+ ma 9\, sesiones 1 a 3 · pp. 187–212\n\nhttps://pablorenedolastra.github
+ .io/catequesis-novios/
+URL:https://pablorenedolastra.github.io/catequesis-novios/
+END:VEVENT
+BEGIN:VEVENT
+UID:catequesis-2027-05-27@catequesis-novios
+DTSTAMP:20261123T183500Z
+DTSTART;TZID=Europe/Madrid:20270527T201500
+DTEND;TZID=Europe/Madrid:20270527T221500
+SUMMARY:Catequesis de novios: Proyecto de vida familiar
+LOCATION:Casa María y Jorge\, C/ Sirio 62\, Esc 3\, 4ºB\, Madrid
+DESCRIPTION:Tema 11: Proyecto de vida familiar\nConstruir una familia crist
+ iana: hijos\, bienes\, vida social y ocio\n\nPrepara: Rocío y Pablo\nLibr
+ o: Tema 11\, sesiones 1 a 3 · pp. 233–256\n\nhttps://pablorenedolastra.
+ github.io/catequesis-novios/
+URL:https://pablorenedolastra.github.io/catequesis-novios/
+END:VEVENT
+BEGIN:VEVENT
+UID:catequesis-2027-06-17@catequesis-novios
+DTSTAMP:20261123T183500Z
+DTSTART;TZID=Europe/Madrid:20270617T201500
+DTEND;TZID=Europe/Madrid:20270617T221500
+SUMMARY:Catequesis de novios: La dimensión social del noviazgo
+LOCATION:Casa Susana y Javier\, C/ Samaria 10\, 3º Izq\, Madrid
+DESCRIPTION:Tema 12: La dimensión social del noviazgo\nMisión evangelizad
+ ora por el bautismo\n\nPrepara: Jorge y María\nLibro: Tema 12 · pp. 259
+ –268\n\nhttps://pablorenedolastra.github.io/catequesis-novios/
+URL:https://pablorenedolastra.github.io/catequesis-novios/
+END:VEVENT
+END:VCALENDAR

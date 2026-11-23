@@ -25,4 +25,6 @@ Proyecto personal de Pablo para preparar la catequesis mensual de novios de su p
 
 El repo es público y la web sale de `docs/` con GitHub Pages: https://pablorenedolastra.github.io/catequesis-novios/. El PDF y el texto de Juntos en Camino están en `.gitignore` y solo existen en local; no subirlos nunca.
 
+La web es la app del curso: la fuente es `app/catequesis.html` (también publicada como artefacto de Claude) y `python3 scripts/publicar.py` genera `docs/index.html`, el calendario `docs/catequesis.ics` y los ficheros PWA. Los datos (plan, casas, parejas, realizadas) están solo en el bloque JSON `datos` de la app. Tras cambiarlos: ejecutar el script, republicar el artefacto y subir.
+
 Estas páginas son de la parroquia: estilo propio, sobrio y legible (también en móvil), **sin branding de Sapira** ni la skill `ux-sapira`. Decisión de Pablo del 20 nov 2026, excepción a su regla general.
